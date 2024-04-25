@@ -1,0 +1,5 @@
+sudo apt-get update
+sudo apt-get install g++
+cd Desktop
+g++ -o h1 HPC1A.cpp
+./h1
